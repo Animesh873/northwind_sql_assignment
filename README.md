@@ -6,3 +6,6 @@ Once the schema is loaded:
 Open template_for_learners.sql
 Run the file in the same Northwind database
 This will execute all your queries, question by question.
+Name: Animesh Upadhyay
+Batch: CPDA_B4
+Database: Northwind_Schema
